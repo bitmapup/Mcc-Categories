@@ -1,17 +1,17 @@
-mcc,edited_description,combined_description,usda_description,irs_description,irs_reportable,5_Categoria
-742,Veterinary Services,Veterinary Services,Veterinary Services,Veterinary Services,Yes,Otros
-763,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Cooperative,Yes,
-780,"Horticultural Services, Landscaping Services","Horticultural Services, Landscaping Services",Horticultural Services,Landscaping Services,Yes,
-1520,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors,Yes,
-1711,"Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation","Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation",Air Conditioning Contractors – Sales and Installation,"Heating, Plumbing, A/C",Yes,
+mcc,edited_description,combined_description,usda_description,irs_description,irs_reportable,Categoria_M
+742,Veterinary Services,Veterinary Services,Veterinary Services,Veterinary Services,Yes,Others
+763,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Co-operatives,Agricultural Cooperative,Yes,Others
+780,"Horticultural Services, Landscaping Services","Horticultural Services, Landscaping Services",Horticultural Services,Landscaping Services,Yes,Others
+1520,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors-Residential and Commercial,General Contractors,Yes,Others
+1711,"Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation","Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation",Air Conditioning Contractors – Sales and Installation,"Heating, Plumbing, A/C",Yes,Others
 1731,Electrical Contractors,Electrical Contractors,Electrical Contractors,Electrical Contractors,Yes,House
-1740,"Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors","Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors",Insulation – Contractors,"Masonry, Stonework, and Plaster",Yes,
-1750,Carpentry Contractors,Carpentry Contractors,Carpentry Contractors,Carpentry Contractors,Yes,
-1761,"Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors","Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors",Roofing - Contractors,"Roofing/Siding, Sheet Metal",Yes,
-1771,Contractors – Concrete Work,Contractors – Concrete Work,Contractors – Concrete Work,Concrete Work Contractors,Yes,
+1740,"Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors","Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors",Insulation – Contractors,"Masonry, Stonework, and Plaster",Yes,Others
+1750,Carpentry Contractors,Carpentry Contractors,Carpentry Contractors,Carpentry Contractors,Yes,Others
+1761,"Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors","Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors",Roofing - Contractors,"Roofing/Siding, Sheet Metal",Yes,Others
+1771,Contractors – Concrete Work,Contractors – Concrete Work,Contractors – Concrete Work,Concrete Work Contractors,Yes,Others
 1799,"Contractors – Special Trade, Not Elsewhere Classified","Contractors – Special Trade, Not Elsewhere Classified","Contractors – Special Trade, Not Elsewhere Classified",Special Trade Contractors,Yes,House
-2741,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Yes,
-2791,"Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, and Related Services",Yes,
+2741,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,Yes,Others
+2791,"Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, and Related Services",Yes,Others
 2842,"Specialty Cleaning, Polishing, and Sanitation Preparations","Specialty Cleaning, Polishing, and Sanitation Preparations","Specialty Cleaning, Polishing, and Sanitation Preparations",Specialty Cleaning,Yes,Health Care
 3000,UNITED AIRLINES,UNITED AIRLINES,UNITED AIRLINES,Airlines,Yes,Transportation
 3001,AMERICAN AIRLINES,AMERICAN AIRLINES,AMERICAN AIRLINES,Airlines,Yes,Transportation
@@ -702,63 +702,63 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 4119,Ambulance Services,Ambulance Services,Ambulance Services,Ambulance Services,Yes,Health Care
 4121,Taxicabs and Limousines,Taxicabs and Limousines,Taxicabs and Limousines,Taxicabs/Limousines,Yes,Transportation
 4131,"Bus Lines, Including Charters, Tour Buses","Bus Lines, Including Charters, Tour Buses","Bus Lines, Including Charters, Tour Buses",Bus Lines,Yes,Transportation
-4214,"Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local","Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local",Motor Freight Carriers,"Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services ",No1.6041-3(c),
-4215,"Courier Services – Air or Ground, Freight forwarders","Courier Services – Air or Ground, Freight forwarders",Courier Services – Air or Ground,Courier Services ,Yes,
-4225,"Public warehousing, Storage","Public warehousing, Storage","Warehousing, Public","Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage ",No1.6041-3(c),
-4411,Cruise and Steamship Lines,Cruise and Steamship Lines,Cruise Lines,Cruise Lines,Yes,
-4457,Boat Rentals and Leases,Boat Rentals and Leases,Boat Rentals and Leases,Boat Rentals and Leases,Yes,
-4468,"Marinas, Marine Service, and Supplies","Marinas, Marine Service, and Supplies","Marinas, Marine Service, and Supplies","Marinas, Service and Supplies",Yes,
-4511,"Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers",Yes,
-4582,"Airports, Airport Terminals, Flying Fields","Airports, Airport Terminals, Flying Fields","Airports, Airport Terminals","Airports, Flying Fields",Yes,
-4722,Travel Agencies and Tour Operations,Travel Agencies and Tour Operations,Travel Agencies and Tour Operations,"Travel Agencies, Tour Operators",Yes,
-4723,Package Tour Operators (For use in Germany only),Package Tour Operators (For use in Germany only),Package Tour Operators (For use in Germany only),TUI Travel - Germany,Yes,
-4784,Toll and Bridge Fees,Toll and Bridge Fees,Toll and Bridge Fees,Tolls/Bridge Fees,No1.6041-3(c),
+4214,"Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local","Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local",Motor Freight Carriers,"Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services ",No1.6041-3(c),Others
+4215,"Courier Services – Air or Ground, Freight forwarders","Courier Services – Air or Ground, Freight forwarders",Courier Services – Air or Ground,Courier Services ,Yes,Others
+4225,"Public warehousing, Storage","Public warehousing, Storage","Warehousing, Public","Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage ",No1.6041-3(c),Others
+4411,Cruise and Steamship Lines,Cruise and Steamship Lines,Cruise Lines,Cruise Lines,Yes,Others
+4457,Boat Rentals and Leases,Boat Rentals and Leases,Boat Rentals and Leases,Boat Rentals and Leases,Yes,Others
+4468,"Marinas, Marine Service, and Supplies","Marinas, Marine Service, and Supplies","Marinas, Marine Service, and Supplies","Marinas, Service and Supplies",Yes,Others
+4511,"Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers",Yes,Others
+4582,"Airports, Airport Terminals, Flying Fields","Airports, Airport Terminals, Flying Fields","Airports, Airport Terminals","Airports, Flying Fields",Yes,Others
+4722,Travel Agencies and Tour Operations,Travel Agencies and Tour Operations,Travel Agencies and Tour Operations,"Travel Agencies, Tour Operators",Yes,Others
+4723,Package Tour Operators (For use in Germany only),Package Tour Operators (For use in Germany only),Package Tour Operators (For use in Germany only),TUI Travel - Germany,Yes,Others
+4784,Toll and Bridge Fees,Toll and Bridge Fees,Toll and Bridge Fees,Tolls/Bridge Fees,No1.6041-3(c),Others
 4789,"Transportation Services, Not elsewhere classified)","Transportation Services, Not elsewhere classified)","Transportation Services, Not elsewhere classified)",Transportation Services (Not Elsewhere Classified),Yes,Transportation
 4812,Telecommunications Equipment including telephone sales,Telecommunications Equipment including telephone sales,Telecommunications Equipment including telephone sales,Telecommunication Equipment and Telephone Sales,No1.6041-3(c),Technology
 4814,"Fax services, Telecommunication Services","Fax services, Telecommunication Services",Fax services,Telecommunication Services,No1.6041-3(c),Technology
 4815,VisaPhone,VisaPhone,VisaPhone,,,Technology
 4816,Computer Network Services,Computer Network Services,,Computer Network Services,No1.6041-3(c),Technology
 4821,Telegraph services,Telegraph services,Telegraph services,Telegraph Services,No1.6041-3(c),Technology
-4829,Money Orders – Wire Transfer,Money Orders – Wire Transfer,Money Orders – Wire Transfer,"Wires, Money Orders",No1.6041-3(c),
+4829,Money Orders – Wire Transfer,Money Orders – Wire Transfer,Money Orders – Wire Transfer,"Wires, Money Orders",No1.6041-3(c),Others
 4899,Cable and other pay television (previously Cable Services),Cable and other pay television (previously Cable Services),Cable and other pay television (previously Cable Services),"Cable, Satellite, and Other Pay Television and Radio",No1.6041-3(c),House
 4900,"Electric, Gas, Sanitary and Water Utilities","Electric, Gas, Sanitary and Water Utilities","Electric, Gas, Sanitary and Water Utilities",Utilities ,No1.6041-3(c),House
 5013,Motor vehicle supplies and new parts,Motor vehicle supplies and new parts,Motor vehicle supplies and new parts,Motor Vehicle Supplies and New Parts,No1.6041-3(c),Transportation
 5021,Office and Commercial Furniture,Office and Commercial Furniture,Office and Commercial Furniture,Office and Commercial Furniture,No1.6041-3(c),House
-5039,"Construction Materials, Not Elsewhere Classified","Construction Materials, Not Elsewhere Classified","Construction Materials, Not Elsewhere Classified",Construction Materials (Not Elsewhere Classified),No1.6041-3(c),
+5039,"Construction Materials, Not Elsewhere Classified","Construction Materials, Not Elsewhere Classified","Construction Materials, Not Elsewhere Classified",Construction Materials (Not Elsewhere Classified),No1.6041-3(c),Others
 5044,"Office, Photographic, Photocopy, and Microfilm Equipment","Office, Photographic, Photocopy, and Microfilm Equipment","Office, Photographic, Photocopy, and Microfilm Equipment","Photographic, Photocopy, Microfilm Equipment, and Supplies",No1.6041-3(c),Technology
 5045,"Computers, Computer Peripheral Equipment, Software","Computers, Computer Peripheral Equipment, Software","Computers, Computer Peripheral Equipment, Software","Computers, Peripherals, and Software",No1.6041-3(c),Technology
 5046,"Commercial Equipment, Not Elsewhere Classified","Commercial Equipment, Not Elsewhere Classified","Commercial Equipment, Not Elsewhere Classified",Commercial Equipment (Not Elsewhere Classified),No1.6041-3(c),Technology
 5047,"Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental, Ophthalmic, and Hospital Equipment and Supplies",No1.6041-3(c),Health Care
-5051,Metal Service Centers and Offices,Metal Service Centers and Offices,Metal Service Centers and Offices,Metal Service Centers,No1.6041-3(c),
-5065,Electrical Parts and Equipment,Electrical Parts and Equipment,Electrical Parts and Equipment,Electrical Parts and Equipment,No1.6041-3(c),
+5051,Metal Service Centers and Offices,Metal Service Centers and Offices,Metal Service Centers and Offices,Metal Service Centers,No1.6041-3(c),Others
+5065,Electrical Parts and Equipment,Electrical Parts and Equipment,Electrical Parts and Equipment,Electrical Parts and Equipment,No1.6041-3(c),Others
 5072,Hardware Equipment and Supplies,Hardware Equipment and Supplies,Hardware Equipment and Supplies,"Hardware, Equipment, and Supplies",No1.6041-3(c),Technology
-5074,Plumbing and Heating Equipment and Supplies,Plumbing and Heating Equipment and Supplies,Plumbing and Heating Equipment and Supplies,"Plumbing, Heating Equipment, and Supplies",No1.6041-3(c),
-5085,"Industrial Supplies, Not Elsewhere Classified","Industrial Supplies, Not Elsewhere Classified","Industrial Supplies, Not Elsewhere Classified",Industrial Supplies (Not Elsewhere Classified),No1.6041-3(c),
-5094,"Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry",No1.6041-3(c),
-5099,"Durable Goods, Not Elsewhere Classified","Durable Goods, Not Elsewhere Classified","Durable Goods, Not Elsewhere Classified",Durable Goods (Not Elsewhere Classified),No1.6041-3(c),
-5111,"Stationery, Office Supplies, Printing, and Writing Paper","Stationery, Office Supplies, Printing, and Writing Paper","Stationery, Office Supplies, Printing, and Writing Paper","Stationary, Office Supplies, Printing and Writing Paper",No1.6041-3(c),
+5074,Plumbing and Heating Equipment and Supplies,Plumbing and Heating Equipment and Supplies,Plumbing and Heating Equipment and Supplies,"Plumbing, Heating Equipment, and Supplies",No1.6041-3(c),Others
+5085,"Industrial Supplies, Not Elsewhere Classified","Industrial Supplies, Not Elsewhere Classified","Industrial Supplies, Not Elsewhere Classified",Industrial Supplies (Not Elsewhere Classified),No1.6041-3(c),Others
+5094,"Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry",No1.6041-3(c),Others
+5099,"Durable Goods, Not Elsewhere Classified","Durable Goods, Not Elsewhere Classified","Durable Goods, Not Elsewhere Classified",Durable Goods (Not Elsewhere Classified),No1.6041-3(c),Others
+5111,"Stationery, Office Supplies, Printing, and Writing Paper","Stationery, Office Supplies, Printing, and Writing Paper","Stationery, Office Supplies, Printing, and Writing Paper","Stationary, Office Supplies, Printing and Writing Paper",No1.6041-3(c),Others
 5122,"Drugs, Drug Proprietors, and Druggist’s Sundries","Drugs, Drug Proprietors, and Druggist’s Sundries","Drugs, Drug Proprietors, and Druggist’s Sundries","Drugs, Drug Proprietaries, and Druggist Sundries",No1.6041-3(c),Health Care
 5131,"Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods",No1.6041-3(c),Clothing
 5137,Men’s Women’s and Children’s Uniforms and Commercial Clothing,Men’s Women’s and Children’s Uniforms and Commercial Clothing,Men’s Women’s and Children’s Uniforms and Commercial Clothing,"Uniforms, Commercial Clothing",No1.6041-3(c),Clothing
 5139,Commercial Footwear,Commercial Footwear,Commercial Footwear,Commercial Footwear,No1.6041-3(c),Clothing
 5169,"Chemicals and Allied Products, Not Elsewhere Classified","Chemicals and Allied Products, Not Elsewhere Classified","Chemicals and Allied Products, Not Elsewhere Classified",Chemicals and Allied Products (Not Elsewhere Classified),No1.6041-3(c),House
 5172,Petroleum and Petroleum Products,Petroleum and Petroleum Products,Petroleum and Petroleum Products,Petroleum and Petroleum Products,No1.6041-3(c),Fuel
-5192,"Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers",No1.6041-3(c),Otros
-5193,"Florists’ Supplies, Nursery Stock and Flowers","Florists’ Supplies, Nursery Stock and Flowers","Florists’ Supplies, Nursery Stock and Flowers","Florists Supplies, Nursery Stock, and Flowers",No1.6041-3(c),Otros
-5198,"Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies",No1.6041-3(c),Otros
-5199,"Non-durable Goods, Not Elsewhere Classified","Non-durable Goods, Not Elsewhere Classified","Non-durable Goods, Not Elsewhere Classified",Nondurable Goods (Not Elsewhere Classified),No1.6041-3(c),
+5192,"Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers",No1.6041-3(c),Others
+5193,"Florists’ Supplies, Nursery Stock and Flowers","Florists’ Supplies, Nursery Stock and Flowers","Florists’ Supplies, Nursery Stock and Flowers","Florists Supplies, Nursery Stock, and Flowers",No1.6041-3(c),Others
+5198,"Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies",No1.6041-3(c),Others
+5199,"Non-durable Goods, Not Elsewhere Classified","Non-durable Goods, Not Elsewhere Classified","Non-durable Goods, Not Elsewhere Classified",Nondurable Goods (Not Elsewhere Classified),No1.6041-3(c),Others
 5200,Home Supply Warehouse Stores,Home Supply Warehouse Stores,Home Supply Warehouse Stores,Home Supply Warehouse Stores,No1.6041-3(c),House
-5211,Lumber and Building Materials Stores,Lumber and Building Materials Stores,Lumber and Building Materials Stores,"Lumber, Building Materials Stores",No1.6041-3(c),
-5231,"Glass, Paint, and Wallpaper Stores","Glass, Paint, and Wallpaper Stores",Wallpaper Stores,"Glass, Paint, and Wallpaper Stores",No1.6041-3(c),
+5211,Lumber and Building Materials Stores,Lumber and Building Materials Stores,Lumber and Building Materials Stores,"Lumber, Building Materials Stores",No1.6041-3(c),Others
+5231,"Glass, Paint, and Wallpaper Stores","Glass, Paint, and Wallpaper Stores",Wallpaper Stores,"Glass, Paint, and Wallpaper Stores",No1.6041-3(c),Others
 5251,Hardware Stores,Hardware Stores,Hardware Stores,Hardware Stores,No1.6041-3(c),Technology
-5261,Nurseries – Lawn and Garden Supply Store,Nurseries – Lawn and Garden Supply Store,Nurseries – Lawn and Garden Supply Store,"Nurseries, Lawn and Garden Supply Stores",No1.6041-3(c),
+5261,Nurseries – Lawn and Garden Supply Store,Nurseries – Lawn and Garden Supply Store,Nurseries – Lawn and Garden Supply Store,"Nurseries, Lawn and Garden Supply Stores",No1.6041-3(c),Others
 5271,Mobile Home Dealers,Mobile Home Dealers,Mobile Home Dealers,Mobile Home Dealers,No1.6041-3(c),Technology
 5300,Wholesale Clubs,Wholesale Clubs,Wholesale Clubs,Wholesale Clubs,No1.6041-3(c),Clothing
-5309,Duty Free Store,Duty Free Store,Duty Free Store,Duty Free Stores,No1.6041-3(c),
-5310,Discount Stores,Discount Stores,Discount Stores,Discount Stores,No1.6041-3(c),
-5311,Department Stores,Department Stores,Department Stores,Department Stores,No1.6041-3(c),
-5331,Variety Stores,Variety Stores,Variety Stores,Variety Stores,No1.6041-3(c),
-5399,Misc. General Merchandise,Misc. General Merchandise,Misc. General Merchandise,Miscellaneous General Merchandise,No1.6041-3(c),
+5309,Duty Free Store,Duty Free Store,Duty Free Store,Duty Free Stores,No1.6041-3(c),Others
+5310,Discount Stores,Discount Stores,Discount Stores,Discount Stores,No1.6041-3(c),Others
+5311,Department Stores,Department Stores,Department Stores,Department Stores,No1.6041-3(c),Others
+5331,Variety Stores,Variety Stores,Variety Stores,Variety Stores,No1.6041-3(c),Others
+5399,Misc. General Merchandise,Misc. General Merchandise,Misc. General Merchandise,Miscellaneous General Merchandise,No1.6041-3(c),Others
 5411,"Grocery Stores, Supermarkets","Grocery Stores, Supermarkets",Grocery Stores,"Grocery Stores, Supermarkets",No1.6041-3(c),Food
 5422,Meat Provisioners – Freezer and Locker,Meat Provisioners – Freezer and Locker,Meat Provisioners – Freezer and Locker,Freezer and Locker Meat Provisioners,No1.6041-3(c),Food
 5441,"Candy, Nut, and Confectionery Stores","Candy, Nut, and Confectionery Stores",Candy Stores,"Candy, Nut, and Confectionery Stores",No1.6041-3(c),Food
@@ -773,7 +773,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 5541,Service Stations ( with or without ancillary services),Service Stations ( with or without ancillary services),Service Stations ( with or without ancillary services),Service Stations ,No1.6041-3(c),Fuel
 5542,Automated Fuel Dispensers,Automated Fuel Dispensers,Automated Fuel Dispensers,Automated Fuel Dispensers,,Fuel
 5551,Boat Dealers,Boat Dealers,Boat Dealers,Boat Dealers,No1.6041-3(c),Transportation
-5561,"Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Motorcycle Shops, Dealers",No1.6041-3(c),
+5561,"Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Recreational and Utility Trailers, Camp Dealers","Motorcycle Shops, Dealers",No1.6041-3(c),Others
 5571,Motorcycle Dealers,Motorcycle Dealers,Motorcycle Dealers,Motorcycle Shops and Dealers,No1.6041-3(c),Transportation
 5592,Motor Home Dealers,Motor Home Dealers,Motor Home Dealers,Motor Homes Dealers,No1.6041-3(c),Transportation
 5598,Snowmobile Dealers,Snowmobile Dealers,Snowmobile Dealers,Snowmobile Dealers,No1.6041-3(c),Transportation
@@ -797,9 +797,9 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 5719,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,No1.6041-3(c),House
 5722,Household Appliance Stores,Household Appliance Stores,Household Appliance Stores,Household Appliance Stores,No1.6041-3(c),House
 5732,Electronic Sales,Electronic Sales,Electronic Sales,Electronics Stores,No1.6041-3(c),Technology
-5733,"Music Stores, Musical Instruments, Piano Sheet Music","Music Stores, Musical Instruments, Piano Sheet Music","Music Stores, Musical Instruments, Piano Sheet Music","Music Stores-Musical Instruments, Pianos, and Sheet Music",No1.6041-3(c),Otros
-5734,Computer Software Stores,Computer Software Stores,Computer Software Stores,Computer Software Stores,No1.6041-3(c),Otros
-5735,Record Shops,Record Shops,Record Shops,Record Stores,No1.6041-3(c),Otros
+5733,"Music Stores, Musical Instruments, Piano Sheet Music","Music Stores, Musical Instruments, Piano Sheet Music","Music Stores, Musical Instruments, Piano Sheet Music","Music Stores-Musical Instruments, Pianos, and Sheet Music",No1.6041-3(c),Others
+5734,Computer Software Stores,Computer Software Stores,Computer Software Stores,Computer Software Stores,No1.6041-3(c),Others
+5735,Record Shops,Record Shops,Record Shops,Record Stores,No1.6041-3(c),Others
 5811,Caterers,Caterers,Caterers,Caterers,Yes,Food
 5812,Eating places and Restaurants,Eating places and Restaurants,Eating places and Restaurants,"Eating Places, Restaurants",No1.6041-3(c),Food
 5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,No1.6041-3(c),Food
@@ -810,97 +810,97 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 5818,Digital Goods: Large Digital Goods Merchant,,,,,Technology
 5832,"Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services","Antique Shops – Sales, Repairs, and Restoration Services",,,Technology
 5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,Drug Stores and Pharmacies,No1.6041-3(c),Health Care
-5921,"Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",No1.6041-3(c),Otros
-5931,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,No1.6041-3(c),
-5932,Antique Shops,Antique Shops,,Antique Shops,No1.6041-3(c),
-5933,Pawn Shops and Salvage Yards,Pawn Shops and Salvage Yards,Pawn Shops and Salvage Yards,Pawn Shops,No1.6041-3(c),
-5935,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Yes,
-5937,Antique Reproductions,Antique Reproductions,Antique Reproductions,Antique Reproductions,No1.6041-3(c),
+5921,"Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores – Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",No1.6041-3(c),Others
+5931,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,No1.6041-3(c),Others
+5932,Antique Shops,Antique Shops,,Antique Shops,No1.6041-3(c),Others
+5933,Pawn Shops and Salvage Yards,Pawn Shops and Salvage Yards,Pawn Shops and Salvage Yards,Pawn Shops,No1.6041-3(c),Others
+5935,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Wrecking and Salvage Yards,Yes,Others
+5937,Antique Reproductions,Antique Reproductions,Antique Reproductions,Antique Reproductions,No1.6041-3(c),Others
 5940,Bicycle Shops – Sales and Service,Bicycle Shops – Sales and Service,Bicycle Shops – Sales and Service,Bicycle Shops,No1.6041-3(c),Transportation
 5941,Sporting Goods Stores,Sporting Goods Stores,Sporting Goods Stores,Sporting Goods Stores,No1.6041-3(c),Clothing
-5942,Book Stores,Book Stores,Book Stores,Book Stores,No1.6041-3(c),
-5943,"Stationery Stores, Office and School Supply Stores","Stationery Stores, Office and School Supply Stores","Stationery Stores, Office and School Supply Stores","Stationery Stores, Office, and School Supply Stores",No1.6041-3(c),
+5942,Book Stores,Book Stores,Book Stores,Book Stores,No1.6041-3(c),Others
+5943,"Stationery Stores, Office and School Supply Stores","Stationery Stores, Office and School Supply Stores","Stationery Stores, Office and School Supply Stores","Stationery Stores, Office, and School Supply Stores",No1.6041-3(c),Others
 5944,"Watch, Clock, Jewelry, and Silverware Stores","Watch, Clock, Jewelry, and Silverware Stores","Watch, Clock, Jewelry, and Silverware Stores","Jewelry Stores, Watches, Clocks, and Silverware Stores",No1.6041-3(c),Clothing
 5945,"Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops",No1.6041-3(c),Technology
 5946,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,No1.6041-3(c),Technology
-5947,"Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Gift, Card, Novelty, and Souvenir Shops",No1.6041-3(c),
-5948,Leather Foods Stores,Leather Foods Stores,Leather Foods Stores,Luggage and Leather Goods Stores,No1.6041-3(c),
-5949,"Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needlework, Fabric, and Piece Goods Stores",No1.6041-3(c),
-5950,Glassware/Crystal Stores,Glassware/Crystal Stores,Glassware/Crystal Stores,"Glassware, Crystal Stores",No1.6041-3(c),
-5960,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing - Insurance Services,Yes,
-5961,"Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)","Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)","Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)",,,
-5962,Direct Marketing – Travel Related Arrangements Services,Direct Marketing – Travel Related Arrangements Services,Direct Marketing – Travel Related Arrangements Services,Direct Marketing - Travel,Yes,
-5963,Door-to-Door Sales,Door-to-Door Sales,Door-to-Door Sales,Door-To-Door Sales,No1.6041-3(c),
-5964,Direct Marketing – Catalog Merchant,Direct Marketing – Catalog Merchant,Direct Marketing – Catalog Merchant,Direct Marketing - Catalog Merchant,No1.6041-3(c),
-5965,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing - Combination Catalog and Retail Merchant,No1.6041-3(c),
-5966,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing - Outbound Tele,No1.6041-3(c),
-5967,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing - Inbound Tele,No1.6041-3(c),
-5968,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing - Subscription,No1.6041-3(c),
-5969,Direct Marketing – Not Elsewhere Classified,Direct Marketing – Not Elsewhere Classified,Direct Marketing – Not Elsewhere Classified,Direct Marketing - Other ,No1.6041-3(c),
-5970,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,No1.6041-3(c),
-5971,Art Dealers and Galleries,Art Dealers and Galleries,Art Dealers and Galleries,Art Dealers and Galleries,No1.6041-3(c),
-5972,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores,No1.6041-3(c),
-5973,Religious Goods Stores,Religious Goods Stores,Religious Goods Stores,Religious Goods Stores,No1.6041-3(c),
-5975,"Hearing Aids – Sales, Service, and Supply Stores","Hearing Aids – Sales, Service, and Supply Stores","Hearing Aids – Sales, Service, and Supply Stores",Hearing Aids Sales and Supplies,No1.6041-3(c),
-5976,Orthopedic Goods Prosthetic Devices,Orthopedic Goods Prosthetic Devices,Orthopedic Goods Prosthetic Devices,Orthopedic Goods - Prosthetic Devices,No1.6041-3(c),
-5977,Cosmetic Stores,Cosmetic Stores,Cosmetic Stores,Cosmetic Stores,No1.6041-3(c),
-5978,"Typewriter Stores – Sales, Rental, Service","Typewriter Stores – Sales, Rental, Service","Typewriter Stores – Sales, Rental, Service",Typewriter Stores,No1.6041-3(c),
+5947,"Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Gift, Card, Novelty, and Souvenir Shops",No1.6041-3(c),Others
+5948,Leather Foods Stores,Leather Foods Stores,Leather Foods Stores,Luggage and Leather Goods Stores,No1.6041-3(c),Others
+5949,"Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needlework, Fabric, and Piece Goods Stores",No1.6041-3(c),Others
+5950,Glassware/Crystal Stores,Glassware/Crystal Stores,Glassware/Crystal Stores,"Glassware, Crystal Stores",No1.6041-3(c),Others
+5960,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing - Insurance Services,Yes,Others
+5961,"Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)","Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)","Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)",,,Others
+5962,Direct Marketing – Travel Related Arrangements Services,Direct Marketing – Travel Related Arrangements Services,Direct Marketing – Travel Related Arrangements Services,Direct Marketing - Travel,Yes,Others
+5963,Door-to-Door Sales,Door-to-Door Sales,Door-to-Door Sales,Door-To-Door Sales,No1.6041-3(c),Others
+5964,Direct Marketing – Catalog Merchant,Direct Marketing – Catalog Merchant,Direct Marketing – Catalog Merchant,Direct Marketing - Catalog Merchant,No1.6041-3(c),Others
+5965,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing – Catalog and Catalog and Retail Merchant,Direct Marketing - Combination Catalog and Retail Merchant,No1.6041-3(c),Others
+5966,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing - Outbound Tele,No1.6041-3(c),Others
+5967,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing – Inbound Teleservices Merchant,Direct Marketing - Inbound Tele,No1.6041-3(c),Others
+5968,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing – Continuity/Subscription Merchant,Direct Marketing - Subscription,No1.6041-3(c),Others
+5969,Direct Marketing – Not Elsewhere Classified,Direct Marketing – Not Elsewhere Classified,Direct Marketing – Not Elsewhere Classified,Direct Marketing - Other ,No1.6041-3(c),Others
+5970,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,Artist’s Supply and Craft Shops,No1.6041-3(c),Others
+5971,Art Dealers and Galleries,Art Dealers and Galleries,Art Dealers and Galleries,Art Dealers and Galleries,No1.6041-3(c),Others
+5972,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Stamp and Coin Stores,No1.6041-3(c),Others
+5973,Religious Goods Stores,Religious Goods Stores,Religious Goods Stores,Religious Goods Stores,No1.6041-3(c),Others
+5975,"Hearing Aids – Sales, Service, and Supply Stores","Hearing Aids – Sales, Service, and Supply Stores","Hearing Aids – Sales, Service, and Supply Stores",Hearing Aids Sales and Supplies,No1.6041-3(c),Others
+5976,Orthopedic Goods Prosthetic Devices,Orthopedic Goods Prosthetic Devices,Orthopedic Goods Prosthetic Devices,Orthopedic Goods - Prosthetic Devices,No1.6041-3(c),Others
+5977,Cosmetic Stores,Cosmetic Stores,Cosmetic Stores,Cosmetic Stores,No1.6041-3(c),Others
+5978,"Typewriter Stores – Sales, Rental, Service","Typewriter Stores – Sales, Rental, Service","Typewriter Stores – Sales, Rental, Service",Typewriter Stores,No1.6041-3(c),Others
 5983,"Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum","Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum","Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum",Fuel Dealers (Non Automotive),No1.6041-3(c),Fuel
-5992,Florists,Florists,Florists,Florists,No1.6041-3(c),
-5993,Cigar Stores and Stands,Cigar Stores and Stands,Cigar Stores and Stands,Cigar Stores and Stands,No1.6041-3(c),
-5994,News Dealers and Newsstands,News Dealers and Newsstands,News Dealers and Newsstands,News Dealers and Newsstands,No1.6041-3(c),
-5995,"Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Food, and Supplies",No1.6041-3(c),
-5996,"Swimming Pools – Sales, Service, and Supplies","Swimming Pools – Sales, Service, and Supplies","Swimming Pools – Sales, Service, and Supplies",Swimming Pools Sales,No1.6041-3(c),
-5997,Electric Razor Stores – Sales and Service,Electric Razor Stores – Sales and Service,Electric Razor Stores – Sales and Service,Electric Razor Stores,No1.6041-3(c),
-5998,Tent and Awning Shops,Tent and Awning Shops,Tent and Awning Shops,Tent and Awning Shops,No1.6041-3(c),
-5999,Miscellaneous and Specialty Retail Stores,Miscellaneous and Specialty Retail Stores,Miscellaneous and Specialty Retail Stores,Miscellaneous Specialty Retail,No1.6041-3(c),
-6010,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Manual Cash Disburse,No1.6041-3(c),
-6011,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Automated Cash Disburse,No1.6041-3(c),
-6012,Financial Institutions – Merchandise and Services,Financial Institutions – Merchandise and Services,Financial Institutions – Merchandise and Services,Financial Institutions,Yes,
-6051,"Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-FI, Money Orders",No1.6041-3(c),
-6211,Security Brokers/Dealers,Security Brokers/Dealers,Security Brokers/Dealers,Security Brokers/Dealers,Yes,
+5992,Florists,Florists,Florists,Florists,No1.6041-3(c),Others
+5993,Cigar Stores and Stands,Cigar Stores and Stands,Cigar Stores and Stands,Cigar Stores and Stands,No1.6041-3(c),Others
+5994,News Dealers and Newsstands,News Dealers and Newsstands,News Dealers and Newsstands,News Dealers and Newsstands,No1.6041-3(c),Others
+5995,"Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Food, and Supplies",No1.6041-3(c),Others
+5996,"Swimming Pools – Sales, Service, and Supplies","Swimming Pools – Sales, Service, and Supplies","Swimming Pools – Sales, Service, and Supplies",Swimming Pools Sales,No1.6041-3(c),Others
+5997,Electric Razor Stores – Sales and Service,Electric Razor Stores – Sales and Service,Electric Razor Stores – Sales and Service,Electric Razor Stores,No1.6041-3(c),Others
+5998,Tent and Awning Shops,Tent and Awning Shops,Tent and Awning Shops,Tent and Awning Shops,No1.6041-3(c),Others
+5999,Miscellaneous and Specialty Retail Stores,Miscellaneous and Specialty Retail Stores,Miscellaneous and Specialty Retail Stores,Miscellaneous Specialty Retail,No1.6041-3(c),Others
+6010,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Manual Cash Disburse,No1.6041-3(c),Others
+6011,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Financial Institutions – Manual Cash Disbursements,Automated Cash Disburse,No1.6041-3(c),Others
+6012,Financial Institutions – Merchandise and Services,Financial Institutions – Merchandise and Services,Financial Institutions – Merchandise and Services,Financial Institutions,Yes,Others
+6051,"Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-FI, Money Orders",No1.6041-3(c),Others
+6211,Security Brokers/Dealers,Security Brokers/Dealers,Security Brokers/Dealers,Security Brokers/Dealers,Yes,Others
 6300,"Insurance Sales, Underwriting, and Premiums","Insurance Sales, Underwriting, and Premiums","Insurance Sales, Underwriting, and Premiums","Insurance Underwriting, Premiums",No1.6041-3(c),Health Care
 6381,"Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)","Insurance Premiums, (no longer valid for first presentment work)",,,Health Care
 6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)","Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,No1.6041-3(c),Health Care
-6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,,Real Estate Agents and Managers - Rentals,Yes,
+6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,,Real Estate Agents and Managers - Rentals,Yes,Others
 7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",Yes,Hotel
 7012,Timeshares,Timeshares,Timeshares,Timeshares,Yes,House
-7032,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting/Recreation Camps,Yes,
-7033,Trailer Parks and Camp Grounds,Trailer Parks and Camp Grounds,Trailer Parks and Camp Grounds,"Trailer Parks, Campgrounds",Yes,
-7210,"Laundry, Cleaning, and Garment Services","Laundry, Cleaning, and Garment Services","Laundry, Cleaning, and Garment Services","Laundry, Cleaning Services",Yes,
-7211,Laundry – Family and Commercial,Laundry – Family and Commercial,Laundry – Family and Commercial,Laundries ,Yes,
-7216,Dry Cleaners,Dry Cleaners,Dry Cleaners,Dry Cleaners,Yes,
-7217,Carpet and Upholstery Cleaning,Carpet and Upholstery Cleaning,Carpet and Upholstery Cleaning,Carpet/Upholstery Cleaning,Yes,
-7221,Photographic Studios,Photographic Studios,Photographic Studios,Photographic Studios,Yes,
+7032,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting and Recreational Camps,Sporting/Recreation Camps,Yes,Others
+7033,Trailer Parks and Camp Grounds,Trailer Parks and Camp Grounds,Trailer Parks and Camp Grounds,"Trailer Parks, Campgrounds",Yes,Others
+7210,"Laundry, Cleaning, and Garment Services","Laundry, Cleaning, and Garment Services","Laundry, Cleaning, and Garment Services","Laundry, Cleaning Services",Yes,Others
+7211,Laundry – Family and Commercial,Laundry – Family and Commercial,Laundry – Family and Commercial,Laundries ,Yes,Others
+7216,Dry Cleaners,Dry Cleaners,Dry Cleaners,Dry Cleaners,Yes,Others
+7217,Carpet and Upholstery Cleaning,Carpet and Upholstery Cleaning,Carpet and Upholstery Cleaning,Carpet/Upholstery Cleaning,Yes,Others
+7221,Photographic Studios,Photographic Studios,Photographic Studios,Photographic Studios,Yes,Others
 7230,Barber and Beauty Shops,Barber and Beauty Shops,Barber and Beauty Shops,Barber and Beauty Shops,Yes,Health Care
-7251,"Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops","Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops","Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops",Shoe Repair/Hat Cleaning,Yes,
-7261,Funeral Service and Crematories,Funeral Service and Crematories,Funeral Service and Crematories,"Funeral Services, Crematories",Yes,
-7273,Dating and Escort Services,Dating and Escort Services,Dating and Escort Services,Dating/Escort Services,Yes,
-7276,Tax Preparation Service,Tax Preparation Service,Tax Preparation Service,Tax Preparation Services,Yes,
-7277,"Counseling Service – Debt, Marriage, Personal","Counseling Service – Debt, Marriage, Personal","Counseling Service – Debt, Marriage, Personal",Counseling Services,Yes,
+7251,"Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops","Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops","Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops",Shoe Repair/Hat Cleaning,Yes,Others
+7261,Funeral Service and Crematories,Funeral Service and Crematories,Funeral Service and Crematories,"Funeral Services, Crematories",Yes,Others
+7273,Dating and Escort Services,Dating and Escort Services,Dating and Escort Services,Dating/Escort Services,Yes,Others
+7276,Tax Preparation Service,Tax Preparation Service,Tax Preparation Service,Tax Preparation Services,Yes,Others
+7277,"Counseling Service – Debt, Marriage, Personal","Counseling Service – Debt, Marriage, Personal","Counseling Service – Debt, Marriage, Personal",Counseling Services,Yes,Others
 7278,"Buying/Shopping Services, Clubs","Buying/Shopping Services, Clubs","Buying/Shopping Services, Clubs",Buying/Shopping Services,Yes,House
 7296,"Clothing Rental – Costumes, Formal Wear, Uniforms","Clothing Rental – Costumes, Formal Wear, Uniforms","Clothing Rental – Costumes, Formal Wear, Uniforms",Clothing Rental ,Yes,Clothing
 7297,Massage Parlors,Massage Parlors,Massage Parlors,Massage Parlors,Yes,Health Care
 7298,Health and Beauty Shops,Health and Beauty Shops,Health and Beauty Shops,Health and Beauty Spas,Yes,Health Care
-7299,Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous General Services,Yes,
-7311,Advertising Services,Advertising Services,Advertising Services,Advertising Services,Yes,
-7321,Consumer Credit Reporting Agencies,Consumer Credit Reporting Agencies,Consumer Credit Reporting Agencies,Credit Reporting Agencies,Yes,
-7332,Blueprinting and Photocopying Services,Blueprinting and Photocopying Services,Blueprinting and Photocopying Services,,,
-7333,"Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics",Yes,
-7338,"Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Repro, and Blueprint",Yes,
-7339,Stenographic and Secretarial Support Services,Stenographic and Secretarial Support Services,Stenographic and Secretarial Support Services,Secretarial Support Services,Yes,
-7342,Exterminating and Disinfecting Services,Exterminating and Disinfecting Services,Exterminating and Disinfecting Services,Exterminating Services,Yes,
+7299,Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous General Services,Yes,Others
+7311,Advertising Services,Advertising Services,Advertising Services,Advertising Services,Yes,Others
+7321,Consumer Credit Reporting Agencies,Consumer Credit Reporting Agencies,Consumer Credit Reporting Agencies,Credit Reporting Agencies,Yes,Others
+7332,Blueprinting and Photocopying Services,Blueprinting and Photocopying Services,Blueprinting and Photocopying Services,,,Others
+7333,"Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics",Yes,Others
+7338,"Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Repro, and Blueprint",Yes,Others
+7339,Stenographic and Secretarial Support Services,Stenographic and Secretarial Support Services,Stenographic and Secretarial Support Services,Secretarial Support Services,Yes,Others
+7342,Exterminating and Disinfecting Services,Exterminating and Disinfecting Services,Exterminating and Disinfecting Services,Exterminating Services,Yes,Others
 7349,"Cleaning and Maintenance, Janitorial Services","Cleaning and Maintenance, Janitorial Services","Cleaning and Maintenance, Janitorial Services",Cleaning and Maintenance,Yes,House
-7361,"Employment Agencies, Temporary Help Services","Employment Agencies, Temporary Help Services","Employment Agencies, Temporary Help Services",Employment/Temp Agencies,Yes,
+7361,"Employment Agencies, Temporary Help Services","Employment Agencies, Temporary Help Services","Employment Agencies, Temporary Help Services",Employment/Temp Agencies,Yes,Others
 7372,"Computer Programming, Integrated Systems Design and Data Processing Services","Computer Programming, Integrated Systems Design and Data Processing Services","Computer Programming, Integrated Systems Design and Data Processing Services",Computer Programming,Yes,Technology
-7375,Information Retrieval Services,Information Retrieval Services,Information Retrieval Services,Information Retrieval Services,Yes,
+7375,Information Retrieval Services,Information Retrieval Services,Information Retrieval Services,Information Retrieval Services,Yes,Others
 7379,"Computer Maintenance and Repair Services, Not Elsewhere Classified","Computer Maintenance and Repair Services, Not Elsewhere Classified","Computer Maintenance and Repair Services, Not Elsewhere Classified",Computer Repair,Yes,Technology
-7392,"Management, Consulting, and Public Relations Services","Management, Consulting, and Public Relations Services","Management, Consulting, and Public Relations Services","Consulting, Public Relations",Yes,
-7393,Protective and Security Services – Including Armored Carsand Guard Dogs,Protective and Security Services – Including Armored Carsand Guard Dogs,Protective and Security Services – Including Armored Carsand Guard Dogs,Detective Agencies,Yes,
-7394,"Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental","Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental","Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental",Equipment Rental ,Yes,
-7395,"Photofinishing Laboratories, Photo Developing","Photofinishing Laboratories, Photo Developing","Photofinishing Laboratories, Photo Developing",Photo Developing,Yes,
-7399,"Business Services, Not Elsewhere Classified","Business Services, Not Elsewhere Classified","Business Services, Not Elsewhere Classified",Miscellaneous Business Services ,Yes,
-7511,Truck Stop,Truck Stop,,Truck Stop,Yes,
+7392,"Management, Consulting, and Public Relations Services","Management, Consulting, and Public Relations Services","Management, Consulting, and Public Relations Services","Consulting, Public Relations",Yes,Others
+7393,Protective and Security Services – Including Armored Carsand Guard Dogs,Protective and Security Services – Including Armored Carsand Guard Dogs,Protective and Security Services – Including Armored Carsand Guard Dogs,Detective Agencies,Yes,Others
+7394,"Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental","Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental","Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental",Equipment Rental ,Yes,Others
+7395,"Photofinishing Laboratories, Photo Developing","Photofinishing Laboratories, Photo Developing","Photofinishing Laboratories, Photo Developing",Photo Developing,Yes,Others
+7399,"Business Services, Not Elsewhere Classified","Business Services, Not Elsewhere Classified","Business Services, Not Elsewhere Classified",Miscellaneous Business Services ,Yes,Others
+7511,Truck Stop,Truck Stop,,Truck Stop,Yes,Others
 7512,Car Rental Companies ( Not Listed Below),Car Rental Companies ( Not Listed Below),Car Rental Companies ( Not Listed Below),Car Rental Agencies,Yes,Transportation
 7513,Truck and Utility Trailer Rentals,Truck and Utility Trailer Rentals,Truck and Utility Trailer Rentals,Truck/Utility Trailer Rentals,Yes,Transportation
 7519,Motor Home and Recreational Vehicle Rentals,Motor Home and Recreational Vehicle Rentals,Motor Home and Recreational Vehicle Rentals,Recreational Vehicle Rentals,Yes,Transportation
@@ -911,34 +911,34 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 7538,Automotive Service Shops,Automotive Service Shops,Automotive Service Shops,Auto Service Shops,Yes,Transportation
 7542,Car Washes,Car Washes,Car Washes,Car Washes,Yes,Transportation
 7549,Towing Services,Towing Services,Towing Services,Towing Services,Yes,Transportation
-7622,Radio Repair Shops,Radio Repair Shops,Radio Repair Shops,Electronics Repair Shops,Yes,
-7623,Air Conditioning and Refrigeration Repair Shops,Air Conditioning and Refrigeration Repair Shops,Air Conditioning and Refrigeration Repair Shops,"A/C, Refrigeration Repair",Yes,
-7629,Electrical And Small Appliance Repair Shops,Electrical And Small Appliance Repair Shops,Electrical And Small Appliance Repair Shops,Small Appliance Repair,Yes,
+7622,Radio Repair Shops,Radio Repair Shops,Radio Repair Shops,Electronics Repair Shops,Yes,Others
+7623,Air Conditioning and Refrigeration Repair Shops,Air Conditioning and Refrigeration Repair Shops,Air Conditioning and Refrigeration Repair Shops,"A/C, Refrigeration Repair",Yes,Others
+7629,Electrical And Small Appliance Repair Shops,Electrical And Small Appliance Repair Shops,Electrical And Small Appliance Repair Shops,Small Appliance Repair,Yes,Others
 7631,"Watch, Clock, and Jewelry Repair","Watch, Clock, and Jewelry Repair","Watch, Clock, and Jewelry Repair",Watch/Jewelry Repair,Yes,Clothing
 7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",Yes,House
-7692,Welding Repair,Welding Repair,Welding Repair,Welding Repair,Yes,
-7699,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Miscellaneous Repair Shops,Yes,
-7800,Government-Owned Lotteries,,,,,
-7801,Government-Licensed On-Line Casinos (On-Line Gambling),,,,,
-7802,Government-Licensed Horse/Dog Racing,,,,,
-7829,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,Yes,
-7832,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Yes,
-7841,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Yes,
-7911,"Dance Halls, Studios and Schools","Dance Halls, Studios and Schools","Dance Halls, Studios and Schools","Dance Hall, Studios, Schools",Yes,
-7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies","Theatrical Producers (Except Motion Pictures), Ticket Agencies","Theatrical Producers (Except Motion Pictures), Ticket Agencies",Theatrical Ticket Agencies,Yes,
-7929,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras",Yes,
-7932,Billiard and Pool Establishments,Billiard and Pool Establishments,Billiard and Pool Establishments,Billiard/Pool Establishments,Yes,
-7933,Bowling Alleys,Bowling Alleys,Bowling Alleys,Bowling Alleys,Yes,
+7692,Welding Repair,Welding Repair,Welding Repair,Welding Repair,Yes,Others
+7699,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Repair Shops and Related Services –Miscellaneous,Miscellaneous Repair Shops,Yes,Others
+7800,Government-Owned Lotteries,,,,,Others
+7801,Government-Licensed On-Line Casinos (On-Line Gambling),,,,,Others
+7802,Government-Licensed Horse/Dog Racing,,,,,Others
+7829,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,Yes,Others
+7832,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Motion Picture Theaters,Yes,Others
+7841,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Video Tape Rental Stores,Yes,Others
+7911,"Dance Halls, Studios and Schools","Dance Halls, Studios and Schools","Dance Halls, Studios and Schools","Dance Hall, Studios, Schools",Yes,Others
+7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies","Theatrical Producers (Except Motion Pictures), Ticket Agencies","Theatrical Producers (Except Motion Pictures), Ticket Agencies",Theatrical Ticket Agencies,Yes,Others
+7929,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras",Yes,Others
+7932,Billiard and Pool Establishments,Billiard and Pool Establishments,Billiard and Pool Establishments,Billiard/Pool Establishments,Yes,Others
+7933,Bowling Alleys,Bowling Alleys,Bowling Alleys,Bowling Alleys,Yes,Others
 7941,"Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters","Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters","Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters",Sports Clubs/Fields,Yes,Health Care
-7991,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Yes,
-7992,Golf Courses – Public,Golf Courses – Public,Golf Courses – Public,Golf Courses - Public,Yes,
-7993,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,No1.6041-3(c),
-7994,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades,Yes,
-7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)",Betting/Casino Gambling,Yes,
-7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers",Amusement Parks/Carnivals,Yes,
-7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",Country Clubs,Yes,
-7998,"Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums",Aquariums,Yes,
-7999,Recreation Services (Not Elsewhere Classified),Recreation Services (Not Elsewhere Classified),Recreation Services (Not Elsewhere Classified),Miscellaneous Recreation Services,Yes,
+7991,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,Yes,Others
+7992,Golf Courses – Public,Golf Courses – Public,Golf Courses – Public,Golf Courses - Public,Yes,Others
+7993,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,Video Amusement Game Supplies,No1.6041-3(c),Others
+7994,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades/Establishments,Video Game Arcades,Yes,Others
+7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)",Betting/Casino Gambling,Yes,Others
+7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers","Amusement Parks, Carnivals, Circuses, Fortune Tellers",Amusement Parks/Carnivals,Yes,Others
+7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",Country Clubs,Yes,Others
+7998,"Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums","Aquariums, Sea-aquariums, Dolphinariums",Aquariums,Yes,Others
+7999,Recreation Services (Not Elsewhere Classified),Recreation Services (Not Elsewhere Classified),Recreation Services (Not Elsewhere Classified),Miscellaneous Recreation Services,Yes,Others
 8011,Doctors and Physicians (Not Elsewhere Classified),Doctors and Physicians (Not Elsewhere Classified),Doctors and Physicians (Not Elsewhere Classified),Doctors,Yes,Health Care
 8021,Dentists and Orthodontists,Dentists and Orthodontists,Dentists and Orthodontists,"Dentists, Orthodontists",Yes,Health Care
 8031,Osteopaths,Osteopaths,Osteopaths,Osteopaths,Yes,Health Care
@@ -951,32 +951,32 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 8062,Hospitals,Hospitals,Hospitals,Hospitals,Yes,Health Care
 8071,Medical and Dental Laboratories,Medical and Dental Laboratories,Medical and Dental Laboratories,Medical and Dental Labs,Yes,Health Care
 8099,Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services ,Yes,Health Care
-8111,Legal Services and Attorneys,Legal Services and Attorneys,Legal Services and Attorneys,"Legal Services, Attorneys",Yes,
-8211,Elementary and Secondary Schools,Elementary and Secondary Schools,Elementary and Secondary Schools,"Elementary, Secondary Schools",No1.6041-3(p)(2),
-8220,"Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Universities",No1.6041-3(p)(2),
-8241,Correspondence Schools,Correspondence Schools,Correspondence Schools,Correspondence Schools,No1.6041-3(p)(2),
-8244,Business and Secretarial Schools,Business and Secretarial Schools,Business and Secretarial Schools,Business/Secretarial Schools,No1.6041-3(p)(2),
-8249,Vocational Schools and Trade Schools,Vocational Schools and Trade Schools,Vocational Schools and Trade Schools,Vocational/Trade Schools,No1.6041-3(p)(2),
-8299,Schools and Educational Services ( Not Elsewhere Classified),Schools and Educational Services ( Not Elsewhere Classified),Schools and Educational Services ( Not Elsewhere Classified),Educational Services ,Yes,
-8351,Child Care Services,Child Care Services,Child Care Services,Child Care Services,Yes,
-8398,Charitable and Social Service Organizations,Charitable and Social Service Organizations,Charitable and Social Service Organizations,Charitable and Social Service Organizations - Fundraising,No1.6041-3(p)(2),
-8641,"Civic, Fraternal, and Social Associations","Civic, Fraternal, and Social Associations","Civic, Fraternal, and Social Associations","Civic, Social, Fraternal Associations",No1.6041-3(p)(2),
-8651,Political Organizations,Political Organizations,Political Organizations,Political Organizations,Yes,
-8661,Religious Organizations,Religious Organizations,Religious Organizations,Religious Organizations,No1.6041-3(p)(2),
-8675,Automobile Associations,Automobile Associations,Automobile Associations,Automobile Associations,Yes,
-8699,Membership Organizations ( Not Elsewhere Classified),Membership Organizations ( Not Elsewhere Classified),Membership Organizations ( Not Elsewhere Classified),Membership Organizations,Yes,
-8734,Testing Laboratories ( non-medical),Testing Laboratories ( non-medical),Testing Laboratories ( non-medical),Testing Laboratories,Yes,
-8911,Architectural – Engineering and Surveying Services,Architectural – Engineering and Surveying Services,Architectural – Engineering and Surveying Services,Architectural/Surveying Services,Yes,
-8931,"Accounting, Auditing, and Bookkeeping Services","Accounting, Auditing, and Bookkeeping Services","Accounting, Auditing, and Bookkeeping Services",Accounting/Bookkeeping Services,Yes,
-8999,Professional Services ( Not Elsewhere Defined),Professional Services ( Not Elsewhere Defined),Professional Services ( Not Elsewhere Defined),Professional Services,Yes,
-9211,"Court Costs, including Alimony and Child Support","Court Costs, including Alimony and Child Support","Court Costs, including Alimony and Child Support","Court Costs, Including Alimony and Child Support - Courts of Law",No1.6041-3(p)(4),
-9222,Fines,Fines,Fines,Fines - Government Administrative Entities,No1.6041-3(p)(4),
-9223,Bail and Bond Payments,Bail and Bond Payments,Bail and Bond Payments,"Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency) ",Yes,
-9311,Tax Payments,Tax Payments,Tax Payments,Tax Payments - Government Agencies,No1.6041-3(p)(4),
-9399,Government Services ( Not Elsewhere Classified),Government Services ( Not Elsewhere Classified),Government Services ( Not Elsewhere Classified),Government Services (Not Elsewhere Classified),No1.6041-3(p)(4),
-9402,Postal Services – Government Only,Postal Services – Government Only,Postal Services – Government Only,Postal Services - Government Only,No1.6041-3(p)(3),
-9405,Intra – Government Transactions,Intra – Government Transactions,Intra – Government Transactions,U.S. Federal Government Agencies or Departments,No1.6041-3(p)(3),
-9700,Automated Referral Service ( For Visa Only),Automated Referral Service ( For Visa Only),Automated Referral Service ( For Visa Only),,,
-9701,Visa Credential Service ( For Visa Only),Visa Credential Service ( For Visa Only),Visa Credential Service ( For Visa Only),,,
-9702,GCAS Emergency Services ( For Visa Only),GCAS Emergency Services ( For Visa Only),GCAS Emergency Services ( For Visa Only),,,
-9950,Intra – Company Purchases ( For Visa Only),Intra – Company Purchases ( For Visa Only),Intra – Company Purchases ( For Visa Only),Intra-Company Purchases,No1.6041-3(c),
+8111,Legal Services and Attorneys,Legal Services and Attorneys,Legal Services and Attorneys,"Legal Services, Attorneys",Yes,Others
+8211,Elementary and Secondary Schools,Elementary and Secondary Schools,Elementary and Secondary Schools,"Elementary, Secondary Schools",No1.6041-3(p)(2),Others
+8220,"Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Universities",No1.6041-3(p)(2),Others
+8241,Correspondence Schools,Correspondence Schools,Correspondence Schools,Correspondence Schools,No1.6041-3(p)(2),Others
+8244,Business and Secretarial Schools,Business and Secretarial Schools,Business and Secretarial Schools,Business/Secretarial Schools,No1.6041-3(p)(2),Others
+8249,Vocational Schools and Trade Schools,Vocational Schools and Trade Schools,Vocational Schools and Trade Schools,Vocational/Trade Schools,No1.6041-3(p)(2),Others
+8299,Schools and Educational Services ( Not Elsewhere Classified),Schools and Educational Services ( Not Elsewhere Classified),Schools and Educational Services ( Not Elsewhere Classified),Educational Services ,Yes,Others
+8351,Child Care Services,Child Care Services,Child Care Services,Child Care Services,Yes,Others
+8398,Charitable and Social Service Organizations,Charitable and Social Service Organizations,Charitable and Social Service Organizations,Charitable and Social Service Organizations - Fundraising,No1.6041-3(p)(2),Others
+8641,"Civic, Fraternal, and Social Associations","Civic, Fraternal, and Social Associations","Civic, Fraternal, and Social Associations","Civic, Social, Fraternal Associations",No1.6041-3(p)(2),Others
+8651,Political Organizations,Political Organizations,Political Organizations,Political Organizations,Yes,Others
+8661,Religious Organizations,Religious Organizations,Religious Organizations,Religious Organizations,No1.6041-3(p)(2),Others
+8675,Automobile Associations,Automobile Associations,Automobile Associations,Automobile Associations,Yes,Others
+8699,Membership Organizations ( Not Elsewhere Classified),Membership Organizations ( Not Elsewhere Classified),Membership Organizations ( Not Elsewhere Classified),Membership Organizations,Yes,Others
+8734,Testing Laboratories ( non-medical),Testing Laboratories ( non-medical),Testing Laboratories ( non-medical),Testing Laboratories,Yes,Others
+8911,Architectural – Engineering and Surveying Services,Architectural – Engineering and Surveying Services,Architectural – Engineering and Surveying Services,Architectural/Surveying Services,Yes,Others
+8931,"Accounting, Auditing, and Bookkeeping Services","Accounting, Auditing, and Bookkeeping Services","Accounting, Auditing, and Bookkeeping Services",Accounting/Bookkeeping Services,Yes,Others
+8999,Professional Services ( Not Elsewhere Defined),Professional Services ( Not Elsewhere Defined),Professional Services ( Not Elsewhere Defined),Professional Services,Yes,Others
+9211,"Court Costs, including Alimony and Child Support","Court Costs, including Alimony and Child Support","Court Costs, including Alimony and Child Support","Court Costs, Including Alimony and Child Support - Courts of Law",No1.6041-3(p)(4),Others
+9222,Fines,Fines,Fines,Fines - Government Administrative Entities,No1.6041-3(p)(4),Others
+9223,Bail and Bond Payments,Bail and Bond Payments,Bail and Bond Payments,"Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency) ",Yes,Others
+9311,Tax Payments,Tax Payments,Tax Payments,Tax Payments - Government Agencies,No1.6041-3(p)(4),Others
+9399,Government Services ( Not Elsewhere Classified),Government Services ( Not Elsewhere Classified),Government Services ( Not Elsewhere Classified),Government Services (Not Elsewhere Classified),No1.6041-3(p)(4),Others
+9402,Postal Services – Government Only,Postal Services – Government Only,Postal Services – Government Only,Postal Services - Government Only,No1.6041-3(p)(3),Others
+9405,Intra – Government Transactions,Intra – Government Transactions,Intra – Government Transactions,U.S. Federal Government Agencies or Departments,No1.6041-3(p)(3),Others
+9700,Automated Referral Service ( For Visa Only),Automated Referral Service ( For Visa Only),Automated Referral Service ( For Visa Only),,,Others
+9701,Visa Credential Service ( For Visa Only),Visa Credential Service ( For Visa Only),Visa Credential Service ( For Visa Only),,,Others
+9702,GCAS Emergency Services ( For Visa Only),GCAS Emergency Services ( For Visa Only),GCAS Emergency Services ( For Visa Only),,,Others
+9950,Intra – Company Purchases ( For Visa Only),Intra – Company Purchases ( For Visa Only),Intra – Company Purchases ( For Visa Only),Intra-Company Purchases,No1.6041-3(c),Others

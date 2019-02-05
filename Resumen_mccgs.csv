@@ -1,0 +1,1029 @@
+mcc,mccg,mccg_name
+0,0,
+3072,1,Airlines
+3211,1,Airlines
+3246,1,Airlines
+3296,1,Airlines
+3355,4,Car Rental
+3604,5,Lodging
+3793,5,Lodging
+3811,5,Lodging
+3825,5,Lodging
+3830,5,Lodging
+5815,10,Miscellaneous Stores
+5817,10,Miscellaneous Stores
+6513,10,Miscellaneous Stores
+6540,10,Miscellaneous Stores
+3180,1,Airlines
+3247,1,Airlines
+3559,5,Lodging
+3567,5,Lodging
+3589,5,Lodging
+3596,5,Lodging
+3602,5,Lodging
+3613,5,Lodging
+3616,5,Lodging
+3618,5,Lodging
+3790,5,Lodging
+3791,5,Lodging
+3792,5,Lodging
+3796,5,Lodging
+3808,5,Lodging
+3812,5,Lodging
+3813,5,Lodging
+3814,5,Lodging
+3816,5,Lodging
+3818,5,Lodging
+3824,5,Lodging
+3832,5,Lodging
+3501,13,Lodging
+3502,13,Lodging
+3503,13,Lodging
+3504,13,Lodging
+3509,13,Lodging
+3510,13,Lodging
+3513,13,Lodging
+3518,13,Lodging
+3520,13,Lodging
+3529,13,Lodging
+3530,13,Lodging
+3533,13,Lodging
+3535,13,Lodging
+3545,13,Lodging
+3549,13,Lodging
+3551,13,Lodging
+3555,13,Lodging
+3590,13,Lodging
+3612,13,Lodging
+3615,13,Lodging
+3628,13,Lodging
+3631,13,Lodging
+3637,13,Lodging
+3638,13,Lodging
+3641,13,Lodging
+3642,13,Lodging
+3643,13,Lodging
+3644,13,Lodging
+3649,13,Lodging
+3650,13,Lodging
+3654,13,Lodging
+3655,13,Lodging
+3665,13,Lodging
+3667,13,Lodging
+3684,13,Lodging
+3687,13,Lodging
+3692,13,Lodging
+3700,13,Lodging
+3703,13,Lodging
+3709,13,Lodging
+3715,13,Lodging
+3716,13,Lodging
+3722,13,Lodging
+3740,13,Lodging
+3741,13,Lodging
+3750,13,Lodging
+3765,13,Lodging
+3769,13,Lodging
+3771,13,Lodging
+3782,13,Lodging
+3634,13,Lodging
+3515,13,Lodging
+3536,13,Lodging
+3541,13,Lodging
+3552,13,Lodging
+3565,13,Lodging
+3586,13,Lodging
+3625,13,Lodging
+3629,13,Lodging
+3635,13,Lodging
+3652,13,Lodging
+3668,13,Lodging
+3676,13,Lodging
+3679,13,Lodging
+3685,13,Lodging
+3701,13,Lodging
+3717,13,Lodging
+3719,13,Lodging
+3720,13,Lodging
+3731,13,Lodging
+3760,13,Lodging
+3767,13,Lodging
+3773,13,Lodging
+3786,13,Lodging
+5966,14,Miscellaneous Stores
+5967,14,Miscellaneous Stores
+5713,15,Miscellaneous Stores
+5718,15,Miscellaneous Stores
+5719,15,Miscellaneous Stores
+5732,15,Miscellaneous Stores
+5733,15,Miscellaneous Stores
+5735,15,Miscellaneous Stores
+5912,15,Miscellaneous Stores
+5921,15,Miscellaneous Stores
+5932,15,Miscellaneous Stores
+5935,15,Miscellaneous Stores
+5937,15,Miscellaneous Stores
+5945,15,Miscellaneous Stores
+5947,15,Miscellaneous Stores
+5948,15,Miscellaneous Stores
+5970,15,Miscellaneous Stores
+5971,15,Miscellaneous Stores
+5972,15,Miscellaneous Stores
+5973,15,Miscellaneous Stores
+5977,15,Miscellaneous Stores
+5993,15,Miscellaneous Stores
+5995,15,Miscellaneous Stores
+7211,16,Miscellaneous Stores
+7217,16,Miscellaneous Stores
+7298,16,Miscellaneous Stores
+6300,17,Miscellaneous Stores
+8011,17,Professional Services and Membership Organizations
+8043,17,Professional Services and Membership Organizations
+8062,17,Professional Services and Membership Organizations
+8071,17,Professional Services and Membership Organizations
+8734,17,Professional Services and Membership Organizations
+8911,17,Professional Services and Membership Organizations
+8931,17,Professional Services and Membership Organizations
+6011,24,Miscellaneous Stores
+6051,24,Miscellaneous Stores
+5311,18,Retail Outlet Services
+5681,18,Clothing Stores
+5698,18,Clothing Stores
+5944,18,Miscellaneous Stores
+7261,18,Miscellaneous Stores
+7277,19,Miscellaneous Stores
+7297,19,Miscellaneous Stores
+7995,19,Business Services
+9223,19,Government Services
+7534,21,Business Services
+7542,21,Business Services
+7631,21,Business Services
+7641,21,Business Services
+7623,21,Business Services
+7692,21,Business Services
+5813,22,Miscellaneous Stores
+5814,22,Miscellaneous Stores
+5200,23,Retail Outlet Services
+5211,23,Retail Outlet Services
+5251,23,Retail Outlet Services
+5261,23,Retail Outlet Services
+5271,23,Retail Outlet Services
+5300,23,Retail Outlet Services
+5309,23,Retail Outlet Services
+5310,23,Retail Outlet Services
+5399,23,Retail Outlet Services
+5411,23,Retail Outlet Services
+5422,23,Retail Outlet Services
+5451,23,Retail Outlet Services
+5499,23,Retail Outlet Services
+4814,25,Utility Services
+4011,26,Transportation Services
+4111,26,Transportation Services
+4214,26,Transportation Services
+4215,26,Transportation Services
+4225,26,Transportation Services
+4457,26,Transportation Services
+4468,26,Transportation Services
+4784,26,Transportation Services
+4900,27,Utility Services
+5983,27,Miscellaneous Stores
+5021,28,Retail Outlet Services
+5044,28,Retail Outlet Services
+5045,28,Retail Outlet Services
+5051,28,Retail Outlet Services
+5072,28,Retail Outlet Services
+5074,28,Retail Outlet Services
+5094,28,Retail Outlet Services
+5099,28,Retail Outlet Services
+5122,28,Retail Outlet Services
+5139,28,Retail Outlet Services
+5169,28,Retail Outlet Services
+5172,28,Retail Outlet Services
+5192,28,Retail Outlet Services
+3001,1,Airlines
+3005,1,Airlines
+3006,1,Airlines
+3008,1,Airlines
+3010,1,Airlines
+3011,1,Airlines
+3013,1,Airlines
+3014,1,Airlines
+3015,1,Airlines
+3016,1,Airlines
+3020,1,Airlines
+3022,1,Airlines
+3026,1,Airlines
+3029,1,Airlines
+3030,1,Airlines
+3035,1,Airlines
+3037,1,Airlines
+3039,1,Airlines
+3052,1,Airlines
+3057,1,Airlines
+3058,1,Airlines
+3076,1,Airlines
+3077,1,Airlines
+3078,1,Airlines
+3088,1,Airlines
+3099,1,Airlines
+3102,1,Airlines
+3161,1,Airlines
+3182,1,Airlines
+3184,1,Airlines
+3196,1,Airlines
+3217,1,Airlines
+3219,1,Airlines
+3221,1,Airlines
+3223,1,Airlines
+3297,1,Airlines
+4511,1,Transportation Services
+3024,1,Airlines
+3025,1,Airlines
+3031,1,Airlines
+3040,1,Airlines
+3042,1,Airlines
+3049,1,Airlines
+3089,1,Airlines
+3129,1,Airlines
+3171,1,Airlines
+3228,1,Airlines
+3240,1,Airlines
+3263,1,Airlines
+3298,1,Airlines
+4411,2,Transportation Services
+7832,2,Business Services
+7841,2,Business Services
+7941,2,Business Services
+7992,2,Business Services
+7993,2,Business Services
+7994,2,Business Services
+7997,2,Business Services
+7998,2,Business Services
+8398,3,Professional Services and Membership Organizations
+8641,3,Professional Services and Membership Organizations
+3359,4,Car Rental
+3366,4,Car Rental
+3374,4,Car Rental
+3381,4,Car Rental
+3405,4,Car Rental
+7512,4,Business Services
+3370,4,Car Rental
+3385,4,Car Rental
+3400,4,Car Rental
+3409,4,Car Rental
+5511,5,Retail Outlet Services
+5532,5,Retail Outlet Services
+5561,5,Retail Outlet Services
+5571,5,Retail Outlet Services
+5592,5,Retail Outlet Services
+5599,5,Retail Outlet Services
+7321,6,Business Services
+7339,6,Business Services
+7349,6,Business Services
+7361,6,Business Services
+7379,6,Business Services
+7392,6,Business Services
+7393,6,Business Services
+7519,6,Business Services
+5611,8,Clothing Stores
+5641,8,Clothing Stores
+5691,8,Clothing Stores
+763,9,Agricultural Services
+1520,9,Contracted Services
+1711,9,Contracted Services
+1731,9,Contracted Services
+1740,9,Contracted Services
+1750,9,Contracted Services
+1761,9,Contracted Services
+1799,9,Contracted Services
+8241,10,Professional Services and Membership Organizations
+8249,10,Professional Services and Membership Organizations
+8299,10,Professional Services and Membership Organizations
+5541,11,Retail Outlet Services
+5542,11,Retail Outlet Services
+9311,12,Government Services
+9402,12,Government Services
+763,1,Agricultural Services
+1799,2,Contracted Services
+3501,5,Lodging
+3504,5,Lodging
+3506,5,Lodging
+3512,5,Lodging
+3516,5,Lodging
+3542,5,Lodging
+3642,5,Lodging
+3643,5,Lodging
+3665,5,Lodging
+3672,5,Lodging
+3690,5,Lodging
+3700,5,Lodging
+3703,5,Lodging
+3715,5,Lodging
+3750,5,Lodging
+3771,5,Lodging
+3778,5,Lodging
+4112,6,Transportation Services
+4121,6,Transportation Services
+4131,6,Transportation Services
+4215,6,Transportation Services
+4411,6,Transportation Services
+4468,6,Transportation Services
+4722,6,Transportation Services
+4784,6,Transportation Services
+4789,6,Transportation Services
+4814,7,Utility Services
+4816,7,Utility Services
+4899,7,Utility Services
+5045,8,Retail Outlet Services
+5046,8,Retail Outlet Services
+5047,8,Retail Outlet Services
+5065,8,Retail Outlet Services
+5085,8,Retail Outlet Services
+5111,8,Retail Outlet Services
+5137,8,Retail Outlet Services
+5192,8,Retail Outlet Services
+5198,8,Retail Outlet Services
+5211,8,Retail Outlet Services
+5231,8,Retail Outlet Services
+5251,8,Retail Outlet Services
+5261,8,Retail Outlet Services
+5309,8,Retail Outlet Services
+5310,8,Retail Outlet Services
+5399,8,Retail Outlet Services
+5411,8,Retail Outlet Services
+5541,8,Retail Outlet Services
+5571,8,Retail Outlet Services
+5599,8,Retail Outlet Services
+5631,9,Clothing Stores
+5641,9,Clothing Stores
+5661,9,Clothing Stores
+5691,9,Clothing Stores
+5698,9,Clothing Stores
+5699,9,Clothing Stores
+5722,10,Miscellaneous Stores
+5734,10,Miscellaneous Stores
+5811,10,Miscellaneous Stores
+5813,10,Miscellaneous Stores
+5921,10,Miscellaneous Stores
+5940,10,Miscellaneous Stores
+5941,10,Miscellaneous Stores
+5943,10,Miscellaneous Stores
+5944,10,Miscellaneous Stores
+5945,10,Miscellaneous Stores
+5946,10,Miscellaneous Stores
+5949,10,Miscellaneous Stores
+5950,10,Miscellaneous Stores
+5962,10,Miscellaneous Stores
+5963,10,Miscellaneous Stores
+5964,10,Miscellaneous Stores
+5971,10,Miscellaneous Stores
+5972,10,Miscellaneous Stores
+5973,10,Miscellaneous Stores
+5976,10,Miscellaneous Stores
+5977,10,Miscellaneous Stores
+5978,10,Miscellaneous Stores
+5983,10,Miscellaneous Stores
+5993,10,Miscellaneous Stores
+5994,10,Miscellaneous Stores
+5996,10,Miscellaneous Stores
+6012,10,Miscellaneous Stores
+6300,10,Miscellaneous Stores
+7211,10,Miscellaneous Stores
+7216,10,Miscellaneous Stores
+7221,10,Miscellaneous Stores
+7278,10,Miscellaneous Stores
+7296,10,Miscellaneous Stores
+7297,10,Miscellaneous Stores
+7333,11,Business Services
+7338,11,Business Services
+7361,11,Business Services
+7372,11,Business Services
+7393,11,Business Services
+7394,11,Business Services
+7395,11,Business Services
+7399,11,Business Services
+7512,11,Business Services
+7523,11,Business Services
+7542,11,Business Services
+7631,11,Business Services
+7832,11,Business Services
+7922,11,Business Services
+7929,11,Business Services
+7993,11,Business Services
+7994,11,Business Services
+7996,11,Business Services
+7998,11,Business Services
+8211,12,Professional Services and Membership Organizations
+8220,12,Professional Services and Membership Organizations
+8244,12,Professional Services and Membership Organizations
+8249,12,Professional Services and Membership Organizations
+8299,12,Professional Services and Membership Organizations
+8351,12,Professional Services and Membership Organizations
+8398,12,Professional Services and Membership Organizations
+8641,12,Professional Services and Membership Organizations
+8661,12,Professional Services and Membership Organizations
+8699,12,Professional Services and Membership Organizations
+8911,12,Professional Services and Membership Organizations
+9211,13,Government Services
+9399,13,Government Services
+9402,13,Government Services
+9405,13,Government Services
+5051,8,Retail Outlet Services
+8675,12,Professional Services and Membership Organizations
+5697,9,Clothing Stores
+7261,10,Miscellaneous Stores
+8049,12,Professional Services and Membership Organizations
+1750,2,Contracted Services
+3637,5,Lodging
+3634,5,Lodging
+7342,11,Business Services
+8050,12,Professional Services and Membership Organizations
+7217,10,Miscellaneous Stores
+5021,8,Retail Outlet Services
+5937,10,Miscellaneous Stores
+5997,10,Miscellaneous Stores
+3579,5,Lodging
+3590,5,Lodging
+3631,5,Lodging
+3652,5,Lodging
+3668,5,Lodging
+3765,5,Lodging
+3774,5,Lodging
+4821,7,Utility Services
+6051,10,Miscellaneous Stores
+3742,5,Lodging
+3553,5,Lodging
+3650,5,Lodging
+3654,5,Lodging
+3662,5,Lodging
+3695,5,Lodging
+3716,5,Lodging
+3721,5,Lodging
+3745,5,Lodging
+3782,5,Lodging
+8734,12,Professional Services and Membership Organizations
+1740,2,Contracted Services
+4119,6,Transportation Services
+3641,5,Lodging
+3740,5,Lodging
+7623,11,Business Services
+1761,2,Contracted Services
+2842,2,Contracted Services
+3520,5,Lodging
+3528,5,Lodging
+3529,5,Lodging
+3539,5,Lodging
+3544,5,Lodging
+3545,5,Lodging
+3551,5,Lodging
+3577,5,Lodging
+3653,5,Lodging
+3660,5,Lodging
+3681,5,Lodging
+3730,5,Lodging
+3743,5,Lodging
+3777,5,Lodging
+3798,5,Lodging
+5718,10,Miscellaneous Stores
+7321,11,Business Services
+3146,1,Airlines
+3438,4,Car Rental
+3519,5,Lodging
+3526,5,Lodging
+3569,5,Lodging
+3595,5,Lodging
+3719,5,Lodging
+3731,5,Lodging
+2791,2,Contracted Services
+3549,5,Lodging
+7534,11,Business Services
+3635,5,Lodging
+3659,5,Lodging
+3523,5,Lodging
+3788,5,Lodging
+3538,13,Lodging
+3599,13,Lodging
+3678,13,Lodging
+3707,13,Lodging
+3738,13,Lodging
+3783,13,Lodging
+3293,1,Airlines
+3572,5,Lodging
+3266,1,Airlines
+3573,5,Lodging
+3038,1,Airlines
+3717,5,Lodging
+3724,5,Lodging
+3069,1,Airlines
+3079,1,Airlines
+3174,1,Airlines
+3245,1,Airlines
+3248,1,Airlines
+3260,1,Airlines
+3607,5,Lodging
+3608,5,Lodging
+3609,5,Lodging
+3614,5,Lodging
+3619,5,Lodging
+3621,5,Lodging
+3807,5,Lodging
+3822,5,Lodging
+3829,5,Lodging
+3831,5,Lodging
+5816,10,Miscellaneous Stores
+5818,10,Miscellaneous Stores
+3068,1,Airlines
+3183,1,Airlines
+3236,1,Airlines
+3521,5,Lodging
+3576,5,Lodging
+3617,5,Lodging
+3795,5,Lodging
+3800,5,Lodging
+3802,5,Lodging
+3826,5,Lodging
+3828,5,Lodging
+3506,13,Lodging
+3508,13,Lodging
+3512,13,Lodging
+3516,13,Lodging
+3517,13,Lodging
+3519,13,Lodging
+3528,13,Lodging
+3542,13,Lodging
+3543,13,Lodging
+3548,13,Lodging
+3553,13,Lodging
+3562,13,Lodging
+3572,13,Lodging
+3577,13,Lodging
+3579,13,Lodging
+3581,13,Lodging
+3583,13,Lodging
+3591,13,Lodging
+3640,13,Lodging
+3659,13,Lodging
+3660,13,Lodging
+3662,13,Lodging
+3672,13,Lodging
+3690,13,Lodging
+3693,13,Lodging
+3695,13,Lodging
+3698,13,Lodging
+3710,13,Lodging
+3721,13,Lodging
+3730,13,Lodging
+3745,13,Lodging
+3751,13,Lodging
+3770,13,Lodging
+3778,13,Lodging
+3779,13,Lodging
+3780,13,Lodging
+7011,13,Miscellaneous Stores
+3514,13,Lodging
+3523,13,Lodging
+3526,13,Lodging
+3539,13,Lodging
+3544,13,Lodging
+3558,13,Lodging
+3561,13,Lodging
+3564,13,Lodging
+3573,13,Lodging
+3575,13,Lodging
+3584,13,Lodging
+3592,13,Lodging
+3623,13,Lodging
+3653,13,Lodging
+3657,13,Lodging
+3658,13,Lodging
+3661,13,Lodging
+3663,13,Lodging
+3681,13,Lodging
+3694,13,Lodging
+3708,13,Lodging
+3723,13,Lodging
+3726,13,Lodging
+3728,13,Lodging
+3729,13,Lodging
+3737,13,Lodging
+3742,13,Lodging
+3743,13,Lodging
+3747,13,Lodging
+3772,13,Lodging
+3774,13,Lodging
+3777,13,Lodging
+3785,13,Lodging
+5960,14,Miscellaneous Stores
+5962,14,Miscellaneous Stores
+5963,14,Miscellaneous Stores
+5964,14,Miscellaneous Stores
+5965,14,Miscellaneous Stores
+5968,14,Miscellaneous Stores
+5969,14,Miscellaneous Stores
+5712,15,Miscellaneous Stores
+5714,15,Miscellaneous Stores
+5722,15,Miscellaneous Stores
+5734,15,Miscellaneous Stores
+5931,15,Miscellaneous Stores
+5940,15,Miscellaneous Stores
+5941,15,Miscellaneous Stores
+5942,15,Miscellaneous Stores
+5943,15,Miscellaneous Stores
+5946,15,Miscellaneous Stores
+5949,15,Miscellaneous Stores
+5950,15,Miscellaneous Stores
+5975,15,Miscellaneous Stores
+5976,15,Miscellaneous Stores
+5978,15,Miscellaneous Stores
+5992,15,Miscellaneous Stores
+5994,15,Miscellaneous Stores
+5996,15,Miscellaneous Stores
+5997,15,Miscellaneous Stores
+5998,15,Miscellaneous Stores
+5999,15,Miscellaneous Stores
+7210,16,Miscellaneous Stores
+7216,16,Miscellaneous Stores
+7221,16,Miscellaneous Stores
+7251,16,Miscellaneous Stores
+7276,16,Miscellaneous Stores
+7278,16,Miscellaneous Stores
+7296,16,Miscellaneous Stores
+7299,16,Miscellaneous Stores
+8021,17,Professional Services and Membership Organizations
+8031,17,Professional Services and Membership Organizations
+8041,17,Professional Services and Membership Organizations
+8042,17,Professional Services and Membership Organizations
+8049,17,Professional Services and Membership Organizations
+8050,17,Professional Services and Membership Organizations
+8099,17,Professional Services and Membership Organizations
+8111,17,Professional Services and Membership Organizations
+8351,17,Professional Services and Membership Organizations
+8999,17,Professional Services and Membership Organizations
+4829,24,Utility Services
+6010,24,Miscellaneous Stores
+6012,24,Miscellaneous Stores
+5598,18,Retail Outlet Services
+5621,18,Clothing Stores
+5661,18,Clothing Stores
+6211,18,Miscellaneous Stores
+7230,18,Miscellaneous Stores
+5933,19,Miscellaneous Stores
+7273,19,Miscellaneous Stores
+2741,20,Contracted Services
+2791,20,Contracted Services
+7531,21,Business Services
+7535,21,Business Services
+7538,21,Business Services
+7549,21,Business Services
+7622,21,Business Services
+7629,21,Business Services
+7699,21,Business Services
+5811,22,Miscellaneous Stores
+5812,22,Miscellaneous Stores
+5231,23,Retail Outlet Services
+5331,23,Retail Outlet Services
+5441,23,Retail Outlet Services
+5462,23,Retail Outlet Services
+4812,25,Utility Services
+4816,25,Utility Services
+4112,26,Transportation Services
+4119,26,Transportation Services
+4121,26,Transportation Services
+4131,26,Transportation Services
+4582,26,Transportation Services
+4722,26,Transportation Services
+4789,26,Transportation Services
+7523,26,Business Services
+4821,27,Utility Services
+4899,27,Utility Services
+5039,28,Retail Outlet Services
+5046,28,Retail Outlet Services
+5047,28,Retail Outlet Services
+5065,28,Retail Outlet Services
+5085,28,Retail Outlet Services
+5111,28,Retail Outlet Services
+5131,28,Retail Outlet Services
+5137,28,Retail Outlet Services
+5193,28,Retail Outlet Services
+5198,28,Retail Outlet Services
+5199,28,Retail Outlet Services
+3000,1,Airlines
+3007,1,Airlines
+3009,1,Airlines
+3012,1,Airlines
+3017,1,Airlines
+3018,1,Airlines
+3032,1,Airlines
+3043,1,Airlines
+3047,1,Airlines
+3048,1,Airlines
+3050,1,Airlines
+3051,1,Airlines
+3056,1,Airlines
+3066,1,Airlines
+3082,1,Airlines
+3103,1,Airlines
+3127,1,Airlines
+3136,1,Airlines
+3175,1,Airlines
+3187,1,Airlines
+3191,1,Airlines
+3206,1,Airlines
+3220,1,Airlines
+3234,1,Airlines
+3261,1,Airlines
+3295,1,Airlines
+3004,1,Airlines
+3021,1,Airlines
+3028,1,Airlines
+3034,1,Airlines
+3075,1,Airlines
+3084,1,Airlines
+3098,1,Airlines
+3100,1,Airlines
+3112,1,Airlines
+3132,1,Airlines
+3144,1,Airlines
+3256,1,Airlines
+3267,1,Airlines
+3294,1,Airlines
+7012,2,Miscellaneous Stores
+7032,2,Miscellaneous Stores
+7033,2,Miscellaneous Stores
+7829,2,Business Services
+7911,2,Business Services
+7922,2,Business Services
+7929,2,Business Services
+7932,2,Business Services
+7933,2,Business Services
+7991,2,Business Services
+7996,2,Business Services
+7999,2,Business Services
+8651,3,Professional Services and Membership Organizations
+8661,3,Professional Services and Membership Organizations
+8675,3,Professional Services and Membership Organizations
+8699,3,Professional Services and Membership Organizations
+3351,4,Car Rental
+3357,4,Car Rental
+3364,4,Car Rental
+3387,4,Car Rental
+3389,4,Car Rental
+3390,4,Car Rental
+3393,4,Car Rental
+3395,4,Car Rental
+3441,4,Car Rental
+3352,4,Car Rental
+3354,4,Car Rental
+3386,4,Car Rental
+3412,4,Car Rental
+5013,5,Retail Outlet Services
+5521,5,Retail Outlet Services
+5533,5,Retail Outlet Services
+5551,5,Retail Outlet Services
+7311,6,Business Services
+7333,6,Business Services
+7338,6,Business Services
+7372,6,Business Services
+7375,6,Business Services
+7394,6,Business Services
+7395,6,Business Services
+7399,6,Business Services
+7513,6,Business Services
+7342,6,Business Services
+2842,7,Contracted Services
+5631,8,Clothing Stores
+5651,8,Clothing Stores
+5655,8,Clothing Stores
+5697,8,Clothing Stores
+5699,8,Clothing Stores
+742,9,Agricultural Services
+780,9,Agricultural Services
+1771,9,Contracted Services
+8211,10,Professional Services and Membership Organizations
+8220,10,Professional Services and Membership Organizations
+8244,10,Professional Services and Membership Organizations
+9211,12,Government Services
+9222,12,Government Services
+9399,12,Government Services
+9405,12,Government Services
+742,1,Agricultural Services
+1711,2,Contracted Services
+2741,2,Contracted Services
+3502,5,Lodging
+3503,5,Lodging
+3509,5,Lodging
+3513,5,Lodging
+3530,5,Lodging
+3533,5,Lodging
+3543,5,Lodging
+3548,5,Lodging
+3565,5,Lodging
+3581,5,Lodging
+3583,5,Lodging
+3591,5,Lodging
+3628,5,Lodging
+3638,5,Lodging
+3655,5,Lodging
+3687,5,Lodging
+3693,5,Lodging
+3722,5,Lodging
+3770,5,Lodging
+4011,6,Transportation Services
+4111,6,Transportation Services
+4214,6,Transportation Services
+4225,6,Transportation Services
+4511,6,Transportation Services
+4582,6,Transportation Services
+4812,7,Utility Services
+4900,7,Utility Services
+5039,8,Retail Outlet Services
+5044,8,Retail Outlet Services
+5072,8,Retail Outlet Services
+5074,8,Retail Outlet Services
+5094,8,Retail Outlet Services
+5099,8,Retail Outlet Services
+5122,8,Retail Outlet Services
+5169,8,Retail Outlet Services
+5172,8,Retail Outlet Services
+5193,8,Retail Outlet Services
+5199,8,Retail Outlet Services
+5200,8,Retail Outlet Services
+5271,8,Retail Outlet Services
+5300,8,Retail Outlet Services
+5311,8,Retail Outlet Services
+5331,8,Retail Outlet Services
+5422,8,Retail Outlet Services
+5441,8,Retail Outlet Services
+5451,8,Retail Outlet Services
+5462,8,Retail Outlet Services
+5499,8,Retail Outlet Services
+5511,8,Retail Outlet Services
+5532,8,Retail Outlet Services
+5533,8,Retail Outlet Services
+5542,8,Retail Outlet Services
+5551,8,Retail Outlet Services
+5611,9,Clothing Stores
+5621,9,Clothing Stores
+5651,9,Clothing Stores
+5655,9,Clothing Stores
+5681,9,Clothing Stores
+5712,10,Miscellaneous Stores
+5713,10,Miscellaneous Stores
+5714,10,Miscellaneous Stores
+5719,10,Miscellaneous Stores
+5732,10,Miscellaneous Stores
+5733,10,Miscellaneous Stores
+5735,10,Miscellaneous Stores
+5812,10,Miscellaneous Stores
+5814,10,Miscellaneous Stores
+5912,10,Miscellaneous Stores
+5931,10,Miscellaneous Stores
+5932,10,Miscellaneous Stores
+5942,10,Miscellaneous Stores
+5947,10,Miscellaneous Stores
+5948,10,Miscellaneous Stores
+5960,10,Miscellaneous Stores
+5965,10,Miscellaneous Stores
+5967,10,Miscellaneous Stores
+5968,10,Miscellaneous Stores
+5969,10,Miscellaneous Stores
+5970,10,Miscellaneous Stores
+5975,10,Miscellaneous Stores
+5992,10,Miscellaneous Stores
+5995,10,Miscellaneous Stores
+5998,10,Miscellaneous Stores
+5999,10,Miscellaneous Stores
+6010,10,Miscellaneous Stores
+6011,10,Miscellaneous Stores
+6211,10,Miscellaneous Stores
+7011,10,Miscellaneous Stores
+7012,10,Miscellaneous Stores
+7032,10,Miscellaneous Stores
+7033,10,Miscellaneous Stores
+7210,10,Miscellaneous Stores
+7230,10,Miscellaneous Stores
+7273,10,Miscellaneous Stores
+7276,10,Miscellaneous Stores
+7277,10,Miscellaneous Stores
+7298,10,Miscellaneous Stores
+7299,10,Miscellaneous Stores
+7311,11,Business Services
+7349,11,Business Services
+7375,11,Business Services
+7379,11,Business Services
+7392,11,Business Services
+7513,11,Business Services
+7535,11,Business Services
+7538,11,Business Services
+7629,11,Business Services
+7829,11,Business Services
+7841,11,Business Services
+7911,11,Business Services
+7933,11,Business Services
+7941,11,Business Services
+7991,11,Business Services
+7992,11,Business Services
+7995,11,Business Services
+7997,11,Business Services
+7999,11,Business Services
+8011,12,Professional Services and Membership Organizations
+8021,12,Professional Services and Membership Organizations
+8041,12,Professional Services and Membership Organizations
+8042,12,Professional Services and Membership Organizations
+8043,12,Professional Services and Membership Organizations
+8062,12,Professional Services and Membership Organizations
+8071,12,Professional Services and Membership Organizations
+8099,12,Professional Services and Membership Organizations
+8111,12,Professional Services and Membership Organizations
+8241,12,Professional Services and Membership Organizations
+8931,12,Professional Services and Membership Organizations
+8999,12,Professional Services and Membership Organizations
+9311,13,Government Services
+1520,2,Contracted Services
+7641,11,Business Services
+780,1,Agricultural Services
+7251,10,Miscellaneous Stores
+3649,5,Lodging
+3692,5,Lodging
+7932,11,Business Services
+5966,10,Miscellaneous Stores
+4829,7,Utility Services
+5933,10,Miscellaneous Stores
+1731,2,Contracted Services
+5521,8,Retail Outlet Services
+4457,6,Transportation Services
+3508,5,Lodging
+3510,5,Lodging
+3535,5,Lodging
+3555,5,Lodging
+3615,5,Lodging
+3625,5,Lodging
+3640,5,Lodging
+3667,5,Lodging
+3710,5,Lodging
+3780,5,Lodging
+5013,8,Retail Outlet Services
+5131,8,Retail Outlet Services
+5139,8,Retail Outlet Services
+5598,8,Retail Outlet Services
+7519,11,Business Services
+7699,11,Business Services
+3644,5,Lodging
+7800,11,Business Services
+8651,12,Professional Services and Membership Organizations
+9222,13,Government Services
+3663,5,Lodging
+3741,5,Lodging
+5935,10,Miscellaneous Stores
+7531,11,Business Services
+1771,2,Contracted Services
+3562,5,Lodging
+3726,5,Lodging
+3751,5,Lodging
+7339,11,Business Services
+3299,1,Airlines
+3515,5,Lodging
+3586,5,Lodging
+3592,5,Lodging
+3612,5,Lodging
+3647,5,Lodging
+3676,5,Lodging
+3709,5,Lodging
+3735,5,Lodging
+3773,5,Lodging
+3779,5,Lodging
+3785,5,Lodging
+5561,8,Retail Outlet Services
+7549,11,Business Services
+7622,11,Business Services
+9223,13,Government Services
+3064,1,Airlines
+3505,5,Lodging
+3518,5,Lodging
+3661,5,Lodging
+3747,5,Lodging
+3524,5,Lodging
+3587,5,Lodging
+3678,5,Lodging
+3763,5,Lodging
+3769,5,Lodging
+3784,5,Lodging
+3564,5,Lodging
+3584,5,Lodging
+3657,5,Lodging
+3658,5,Lodging
+3720,5,Lodging
+5592,8,Retail Outlet Services
+3181,1,Airlines
+3368,4,Car Rental
+3561,5,Lodging
+3823,5,Lodging
+3532,5,Lodging
+3563,13,Lodging
+3735,13,Lodging
+3061,1,Airlines
+3185,1,Airlines
+3537,5,Lodging
+3701,5,Lodging
+3570,5,Lodging
+3541,5,Lodging
